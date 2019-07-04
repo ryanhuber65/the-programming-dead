@@ -1,0 +1,1 @@
+audio_play_sound(snd_creditsMusic, 0 , false);

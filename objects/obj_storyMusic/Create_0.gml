@@ -1,0 +1,1 @@
+audio_play_sound(snd_storyMusic, 0, true);
